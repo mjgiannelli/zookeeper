@@ -33,4 +33,4 @@ router.get('/animals', (req, res) => {
     res.json(results);
 });
 
-module.exports  = router;
+module.exports = router;
